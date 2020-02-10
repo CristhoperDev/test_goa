@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2d0f8c68-5c08-4397-a811-e919ff6830f1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="ProjectId" id="1XJGSfnZAxyX0SMlUXgo3xXpnuH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoProjectSettingsConfigurable" />
+  </component>
+  <component name="RunManager" selected="Go Build.go build calc/cmd">
+    <configuration name="go build calc/cmd" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="calc" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="calc/cmd" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build calc/gen" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="calc" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="calc/gen" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build calc/gen/http" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="calc" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="calc/gen/http" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build calc/cmd" />
+        <item itemvalue="Go Build.go build calc/gen/http" />
+        <item itemvalue="Go Build.go build calc/gen" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="496" y="204" key="#Go_Modules_(vgo)" timestamp="1580757047593">
+      <screen x="0" y="23" width="1792" height="1032" />
+    </state>
+    <state x="496" y="204" key="#Go_Modules_(vgo)/0.23.1792.1032@0.23.1792.1032" timestamp="1580757047593" />
+    <state x="619" y="339" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580758728457">
+      <screen x="0" y="23" width="1792" height="1032" />
+    </state>
+    <state x="619" y="339" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1792.1032@0.23.1792.1032" timestamp="1580758728457" />
+    <state width="1750" height="263" key="GridCell.Tab.0.bottom" timestamp="1580854541377">
+      <screen x="0" y="23" width="1792" height="1032" />
+    </state>
+    <state width="1750" height="263" key="GridCell.Tab.0.bottom/0.23.1792.1032@0.23.1792.1032" timestamp="1580854541377" />
+    <state width="1750" height="263" key="GridCell.Tab.0.center" timestamp="1580854541376">
+      <screen x="0" y="23" width="1792" height="1032" />
+    </state>
+    <state width="1750" height="263" key="GridCell.Tab.0.center/0.23.1792.1032@0.23.1792.1032" timestamp="1580854541376" />
+    <state width="1750" height="263" key="GridCell.Tab.0.left" timestamp="1580854541376">
+      <screen x="0" y="23" width="1792" height="1032" />
+    </state>
+    <state width="1750" height="263" key="GridCell.Tab.0.left/0.23.1792.1032@0.23.1792.1032" timestamp="1580854541376" />
+    <state width="1750" height="263" key="GridCell.Tab.0.right" timestamp="1580854541377">
+      <screen x="0" y="23" width="1792" height="1032" />
+    </state>
+    <state width="1750" height="263" key="GridCell.Tab.0.right/0.23.1792.1032@0.23.1792.1032" timestamp="1580854541377" />
+    <state x="397" y="178" key="SettingsEditor" timestamp="1580761173971">
+      <screen x="0" y="23" width="1792" height="1032" />
+    </state>
+    <state x="397" y="178" key="SettingsEditor/0.23.1792.1032@0.23.1792.1032" timestamp="1580761173971" />
+  </component>
+</project>
